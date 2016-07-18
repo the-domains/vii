@@ -1,14 +1,22 @@
-layout_spectrum: 0.8730095585342497
 typography_spectrum: 0.2922920931596309
+content_rating:
+  adult: false
 color:
   brandStrength: 0.08653045748360455
   lightness: 0.9879606359172612
   saturation: 0.68218326382339
   rhythmicContrast: 0.8813187736086547
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+layout_spectrum: 0.8730095585342497
+author:
+  name: Kammermann Michael – KAMMIVII
+  email: kkammi@me.com
 name: VII
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/824b2e5e-7499-4256-9224-55b7dc99be3e.png
+title: Story
