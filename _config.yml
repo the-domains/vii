@@ -17,11 +17,7 @@ author:
   name: Kammermann Michael – KAMMIVII
   email: kkammi@me.com
 name: VII
-navigation:
-  - url: >-
-      https://munchies.vice.com/de/articles/du-solltest-deine-bloody-mary-mit-einem-cheeseburger-garnieren
-    name: What ever
-    type: external
+navigation: []
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/824b2e5e-7499-4256-9224-55b7dc99be3e.png
 title: Story
