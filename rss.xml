@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Story]]></title>
         <description><![CDATA[Story]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vii/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 12:33:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jul 2016 09:04:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vii/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Das Bloody-Mary-Meisterwerk]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72a26768-d2fe-4862-b94e-b694c5686b41.jpg">]]></description>
+            <link>https://munchies.vice.com/de/recipes/das-bloody-mary-me</link>
+            <guid isPermaLink="false">880ee70e-dc75-48bc-8176-3614e1f5d567</guid>
+            <pubDate>Wed, 27 Jul 2016 09:04:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2775197-83cd-41a9-adf9-92cbc18938b0.jpg">]]></description>
-            <link>undefined5947636e-c2d7-4c30-b0c5-e158097b0716/index.html</link>
+            <link>https://thegrid.ai/vii/5947636e-c2d7-4c30-b0c5-e158097b0716/index.html</link>
             <guid isPermaLink="false">5947636e-c2d7-4c30-b0c5-e158097b0716</guid>
             <pubDate>Mon, 18 Jul 2016 12:33:36 GMT</pubDate>
         </item>
